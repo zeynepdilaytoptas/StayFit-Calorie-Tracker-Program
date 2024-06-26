@@ -1,0 +1,154 @@
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje3\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje5\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Grup1_EFProje7SonHali\Grup1_EFProje6\Grup1_EFProje\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\imehm\OneDrive\Masaüstü\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje11\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Desktop\Grup1_EFProje13\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Grup1_EFProje14\Grup1_EFProje14\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\imehm\OneDrive\Masaüstü\New folder\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Ümmühan\Downloads\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.deps.json
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\bin\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\refint\DiyetProje.DAL.dll
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.pdb
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\DiyetProje.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Grup1_EFProje23\Grup1_EFProje\DiyetProje.DAL\obj\Debug\net8.0\ref\DiyetProje.DAL.dll
